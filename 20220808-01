@@ -1,0 +1,56 @@
+Return-Path: <jmandrey18@gmail.com>
+Delivered-To: 
+Received: from server45.romania-webhosting.com
+    by server45.romania-webhosting.com with LMTP
+    id wMVuM3r77GJBUi4ABd55gA
+    (envelope-from <jmandrey18@gmail.com>)
+    for <>; Fri, 05 Aug 2022 14:14:02 +0300
+Return-path: <jmandrey18@gmail.com>
+Envelope-to: 
+Delivery-date: Fri, 05 Aug 2022 14:14:02 +0300
+Received: from mail-ed1-f51.google.com ([209.85.208.51]:46027)
+    by server45.romania-webhosting.com with esmtps (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+    (Exim 4.95)
+    (envelope-from <jmandrey18@gmail.com>)
+    id 1oJvHO-00CjV1-Dv
+    for ;
+    Fri, 05 Aug 2022 14:14:02 +0300
+Received: by mail-ed1-f51.google.com with SMTP id e13so2903006edj.12
+    for <>; Fri, 05 Aug 2022 04:13:42 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+    d=gmail.com; s=20210112;
+    h=to:subject:message-id:date:from:reply-to:mime-version:from:to:cc;
+    bh=NdFmeLWgHFE2QCnlTppLB68Km+1lF3ui898Urn5c3/8=;
+    b=VQlAUnLKhlrg1DiKxpNX4AgHZW5hBz35RmSwkS8G35P4DopKSkNc0HStxXwwjFj9Rm
+    C+QOAMS18OwB7CFYzV/5F2gyfE96uUQc2Dk1g18iZSBpn1CbzI4pAtHX70095jFvISE2
+    3e/6N3OEpF1k6dhEERc5eLAGNkSWqqhIxTolYgLd+b9pfwifAeU7aWfe7P7582HiwPp6
+    1L0TSPIokh6rCTSRc8aG4I5/nwv96f6chOsxD+U/065A9jRBjKikZJf25AWzn7DsFawP
+    kL+Hv0luRq6900ezlfD86prEDG8FN+Sfd6C8716sWJi54n5ZZe+W4I7EprAMMChPHtEd
+    RbvQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+    d=1e100.net; s=20210112;
+    h=to:subject:message-id:date:from:reply-to:mime-version
+    :x-gm-message-state:from:to:cc;
+    bh=NdFmeLWgHFE2QCnlTppLB68Km+1lF3ui898Urn5c3/8=;
+    b=pNA5UlyPgb81/R4G2N6ZtlgDZElrrKr3otsFFdKM4Gi92G8bjaQxHXYnGDBToDSdxx
+    Cfrgy/I9D9SprxPznRu7J0Mkf5q16PEQPcv5AXN0IL6HEJ3rIinrM5lzhGderNOtkE4b
+    4gsA3nlBReCIQMzeEZ+N1K2IVswKfwJHdCzDuJn7tC4etazSR1coThw8+IElo/jUipi5
+    iM2Ih6MuP43uWS5mhJASUG40yBd4TqKxxdkpWp8ahl3XozyOuJQdnFVOCbZa4zSg3UXx
+    oG+apo0sI491p5TYSOoIJeCSWJXAoaGAFwbYm76GI8eyJw8XqvZt5Jz7LzRlFmmgTv3n
+    RuKg==
+X-Gm-Message-State: ACgBeo2dMP0721v3wVyWdy1eBAVS8lsZINRiHi774CZqAjzHuiQnVg9R
+    rvIjhYWth1pIg/zEIkte9w9VfVjKH49AMAGMW8s=
+X-Google-Smtp-Source: AA6agR7RVx6RhtbW/MqshkNPqbuPkb48RC16FmEFDECJ1RHCf6ZjQaPqiE7GZcQM37ycnM1HsocNP8k4lH5kComb5SU=
+X-Received: by 2002:a05:6402:329b:b0:43d:bd4b:2f08 with SMTP id
+    f27-20020a056402329b00b0043dbd4b2f08mr6165118eda.244.1659698001667; Fri, 05
+    Aug 2022 04:13:21 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 2002:ab4:a24c:0:0:0:0:0 with HTTP; Fri, 5 Aug 2022 04:13:20 -0700 (PDT)
+Reply-To: joakran22@gmail.com
+From: John Akran <jmandrey18@gmail.com>
+Date: Fri, 5 Aug 2022 12:13:20 +0100
+Message-ID: <CAPdztHP=HAcvn7fPzZcj7gdUC3=AQiJxv3LJp49uHptan9r+4Q@mail.gmail.com>
+Subject: =?UTF-8?Q?=E3=83=84Your_Late_uncle=27s_financial_status?=
+To: undisclosed-recipients:;
+Content-Type: multipart/mixed; boundary="000000000000d3103405e57c8d32"
+Bcc: 
